@@ -1,0 +1,89 @@
+baseURL = "https://scriabinclub.com/"
+languageCode = "en"
+title = "Scriabin Club"
+DefaultContentLanguage = "en"
+theme = "tigers"
+enableRobotsTXT = true
+paginate = 30
+
+[taxonomies]
+  cat = 'cat'
+
+#[permalinks]
+#page = "/:slug/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+unsafe = true
+
+[params]
+###########################
+## GLOBAL VARS (default) ##
+###########################
+
+# RobotsDisallow = ["/dev/"]
+featuredImage = "/images/banner.jpg"
+
+
+#######################
+### LOCALIZATION ######
+#######################
+
+sitename = "Scriabin Club"
+footerHTML = '&copy; ScriabinClub | <a href="/contact/">Contact</a>'
+strNextPage = "Older →"
+strPreviousPage = "← Newer"
+
+
+[languages]
+
+[languages.en] 
+languageName = "English"
+weight = 1
+#[languages.en.menu]
+#[[languages.en.menu.main]]
+#name = "Home"
+#title = "Home"
+#url = "/"
+#weight = 0
+
+###################
+### ZEE GERMANS ###
+###################
+
+[languages.de] 
+languageName = "Deutsch"
+weight = 2
+
+[languages.de.params]
+## possible param overwrites (for localization) go here
+sitename = "Skrjabin Klub"
+footerHTML = '&copy; Skrjabin Klub | <a href="/contact/">Kontakt</a>'
+strNextPage = "Älter →"
+strPreviousPage = "← Neuer"
+
+###################
+### NEDERLANDS ####
+###################
+[languages.nl] 
+languageName = "Nederlands"
+
+[languages.nl.params]
+sitename = "Scriabin Club"
+footerHTML = '&copy; Scriabin Club | <a href="/contact/">Contact</a>'
+strNextPage = "Terug →"
+strPreviousPage = "← Vooruit"
+
+###################
+### RUSSIAN ####
+###################
+
+[languages.ru] 
+languageName = "Русский"
+
+[languages.ru.params]
+
+sitename = "Скрябинский Клуб"
+footerHTML = '&copy; Скрябинский Клуб | <a href="/contact/">Контакт</a>'
+strNextPage = "Старее →"
+strPreviousPage = "← Новее"
