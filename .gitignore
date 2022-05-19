@@ -4,5 +4,4 @@ resources/
 *.swp
 themes/scriabin-club-theme/
 data/
-layouts/
 .hugo_build.lock
