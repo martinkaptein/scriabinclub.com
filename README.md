@@ -2,7 +2,7 @@
 
 Repository of the [Scriabin Club website](https://scriabinclub.com/).
 
-The website gets build automatically every week on Monday at 9:00am UTC+2.
+The website gets build automatically every week on Monday at 9:00am CEST.
 If the build fails an older version is used.
 
 ## Requirements
