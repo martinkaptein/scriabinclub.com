@@ -19,7 +19,7 @@ keywords:
 
 - To create a community, where conversations about Art and Life are taking place and bringing like-minded people together.
 - To create a highest quality music school and learning environment for piano lessons and general cultural education.
-- To create a place where [information](/post/) about Scriabin and related topics is shared and distributed.
+- To create a place where [information about Scriabin](/post/) and related topics is shared and distributed.
 
 ## Our Club
 
