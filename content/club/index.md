@@ -18,7 +18,7 @@ keywords:
   - History
 ---
 
-Scriabin, Roerich, Blavatsky, Rachmaninoff, Goethe, Nietzsche, Lovecraft, Liszt, Wagner, Bulgakoff, Berdjaeff, Tarkovsky, Laotse, Schopenhauer, Pletnev...
+Scriabin, Roerich, Blavatsky, Rachmaninoff, Goethe, Nietzsche, Lovecraft, Liszt, Wagner, Bulgakoff, Berdjaeff, Tarkovsky, Laotse, Schopenhauer, Pletnev, Sokolov, Horowitz, Rubinstein, Prokoviev, Schiller, Beethoven, Chopin...
 
 If any one of these names is familiar to you, you have found the right place!
 Find out more about Scriabin Club on this page.
