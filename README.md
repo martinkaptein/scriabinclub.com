@@ -31,12 +31,13 @@ In exchange for this, Scriabin Club membership is granted.
 
 - Write in markdown, and link to static files (if applicable) relatively to that file.
 - The markdown file should be named `index.md`.
-- Initiate the markdown file with metadata from `archetypes/default.md` (or use `hugo new post/example/index.md`).
+- Initiate the markdown file with metadata from `archetypes/default.md`, or use `hugo new post/example/index.md` (replacing *example* with your post slug).
 - For any other language than English, call this file e.g. for German `index.de.md`, of course this language needs to be defined in `config.toml` first, with the homepage preferably translated too.
-- Edit this metadata to fill your needs, you will see examples in the file.
-- Everything should be in one folder, which will become the slug of the page (e.g. `scriabinclub.com/post/example/`), no subfolders.
+- Edit this metadata to fill your needs.
+- Everything should be in one folder, which will become the slug of the page (e.g. `scriabinclub.com/post/example/`), without subfolders.
 - Assets like pictures (please use `.jpg`) shall be minimized automatically.
 - Place that folder with all files under `content/post/`.
+- See the [example post](https://github.com/martinkaptein/scriabinclub.com/tree/main/content/post/example) for a model/example.
 - Submit a request in Github.
 - If you are not sure please [contact us](https://scriabinclub.com/contact/).
 
