@@ -13,7 +13,6 @@ keywords:
   - education
   - homepage
 ---
-<!-- Welcome to Scriabin Club. The first rule of Scriabin Club is: You do not talk about Scriabin Club. The second rule of Scriabin Club is: You do not talk about Scriabin Club. -->
 
 ## Our Mission
 
