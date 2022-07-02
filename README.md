@@ -5,10 +5,18 @@ Repository of the [Scriabin Club website](https://scriabinclub.com/).
 The website gets build automatically every week on Monday at 9:00am CEST.
 If the build fails an older version is used.
 
-## Requirements
+## Getting started
+
+### Requirements
 
 You will need Hugo, which you can obtain from [the Hugo release page](https://github.com/gohugoio/hugo/releases).
 The *extended* version is required.
+
+### Installation
+
+```
+git clone https://github.com/martinkaptein/scriabinclub.com.git && git clone https://github.com/martinkaptein/tigers.git themes/tigers
+```
 
 ## How to contribute to Scriabin Club
 

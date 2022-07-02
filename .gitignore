@@ -2,6 +2,6 @@
 public/
 resources/
 *.swp
-themes/scriabin-club-theme/
+themes/
 data/
 .hugo_build.lock
