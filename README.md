@@ -12,10 +12,14 @@ If the build fails an older version is used.
 You will need Hugo, which you can obtain from [the Hugo release page](https://github.com/gohugoio/hugo/releases).
 The *extended* version is required.
 
+Also, you will need the [tigers theme](https://github.com/martinkaptein/tigers/), which is the theme the Scriabin Club website currently uses.
+
 ### Installation
 
+Clone both repositories, or symlink tigers into `themes/`:
+
 ```
-git clone https://github.com/martinkaptein/scriabinclub.com.git && git clone https://github.com/martinkaptein/tigers.git themes/tigers
+git clone https://github.com/martinkaptein/scriabinclub.com.git && git clone https://github.com/martinkaptein/tigers.git scriabinclub.com/themes/tigers
 ```
 
 ## How to contribute to Scriabin Club
