@@ -8,7 +8,9 @@ add afterwards 2*stroke-width to total width and height, including translation
 
     <desc>Scriabin Club Logo, designed by Martin Kaptein in vim.</desc>
 <!-- Remove for transparency -->
+<!--
         <rect id="main" fill="#345694" x="0" y="0" width="280" height="280"></rect>
+-->
 
 <g transform="translate(140,140)">
 
