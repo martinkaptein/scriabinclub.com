@@ -19,13 +19,7 @@ keywords:
 
 Contact us via the following address:
 
-<script>
-var domain = document.location.hostname;
-var user = "inbox";
-var domain = "@" + domain;
-var result = user + domain;
-document.write('<a href="mailto:' + result + '">' + result + '</a>');
-</script>
+<script src="/js/cd.js"></script>
 
 If the adress doesn't appear, [see here](cd.jpg).
 Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://martinkaptein.com/contact/).
