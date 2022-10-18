@@ -16,7 +16,7 @@ Anlässlich des 150. Geburtstags von Alexander Nikolajewitsch Skrjabin wird sich
 Das Skrjabin 150 Festival wird von Sherry Grant aus Neuseeland veranstaltet und organisiert.
 Sie veranstaltet dieses Festival in Zusammenarbeit mit der Scriabin Society of America.
 
-Weitere Informationen über das Skrjabin-Online-Festival finden Sie auf [dieser Website] (https://www.artsinfinitypress.com/scriabin150). 
+Weitere Informationen über das Skrjabin-Online-Festival finden Sie auf [dieser Website](https://www.artsinfinitypress.com/scriabin150). 
 Oder [hier erfahren Sie mehr über die Scriabin Society of America](https://scriabinsociety.com/about/).
 
 Während dieser drei Tage finden Präsentationen und Vorträge von Musikern, Künstlern und Philosophen statt.
