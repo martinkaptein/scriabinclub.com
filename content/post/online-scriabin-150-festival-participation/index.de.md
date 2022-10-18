@@ -1,7 +1,7 @@
 ---
 title: "Skrjabin Club beim Skrjabin 150 Festival"
 date: 2022-10-17T15:22:37+02:00
-draft: true
+draft: false
 description: "Der Gründer des Scriabin Clubs, der Pianist und Pädagoge Martin Kaptein, ist zum Scriabin 150 Online Festival eingeladen. Dieses Festival findet vom 11. bis 13. November statt. An diesen drei Tagen gibt es Präsentationen und Vorträge von Musikern, Künstlern und Philosophen."
 metaImage: "scriabin-150-logo.jpg" 
 cat:

@@ -1,7 +1,7 @@
 ---
 title: "Scriabin Club at Scriabin 150 Festival"
 date: 2022-10-17T15:22:37+02:00
-draft: true
+draft: false
 # write a good description
 description: "The founder of Scriabin Club, the pianist and educator Martin Kaptein, is invited to the Scriabin 150 Online Festival. This festival will take place from 11 until 13 November. Over these three days there will be presentations and recitals by musicians, artists and philosophers."
 # meta image relative to this file

@@ -1,7 +1,7 @@
 ---
 title: "Scriabin Club tijdens de Scriabin 150 Festival"
 date: 2022-10-17T15:22:37+02:00
-draft: true
+draft: false
 description: "De oprichter van Scriabin Club, de pianist en pedagoog Martin Kaptein, is uitgenodigd voor het Scriabin 150 Online Festival. Dit festival vindt plaats van 11 tot en met 13 november. Gedurende deze drie dagen zijn er presentaties en recitals van musici, kunstenaars en filosofen."
 metaImage: "scriabin-150-logo.jpg" 
 cat:
