@@ -24,11 +24,11 @@ keywords:
 There are three options to become a part of Scriabin Club.
 You can become a:
 
-- Member of Scriabin Club.
-- Honorary patron of Scriabin Club.
-- Sponsor of Scriabin Club.
+- [Member](#scriabin-club-member) of Scriabin Club.
+- [Honorary patron](#honorary-patron-of-scriabin-club) of Scriabin Club.
+- [Sponsor](#scriabin-club-sponsor) of Scriabin Club.
 
-## Members of Scriabin Club
+## Scriabin Club member
 
 ![Membership in Scriabin Club](membership.jpg)
 
@@ -79,7 +79,7 @@ An example is a Piano Professor being invited to conduct a masterclass, in retur
 
 We are working to publish a continuously updated list of these members on our website.
 
-## Becoming a Scriabin Club sponsor
+## Scriabin Club sponsor
 
 ![Scriabin Club Sponsorship](sponsor.jpg)
 

@@ -28,11 +28,11 @@ Scriabin Club members work actively to promote cultural awareness, engagement an
 
 Scriabin Club membership includes benefits such as the participation in conferences, activities, concerts, meetings, lectures, lessons and more.
 Our base of followers and members is constantly growing.
-Learn more [about Scriabin Club](/club/).
+See [how to become a part of Scriabin Club](/club/) or learn more [about Scriabin Club](/about/).
 
 ## Our Sponsors
 
 Do you want to support the mission of Scriabin Club financially and become our sponsor?
-Please [contact us](/contact/).
+Please [see the sponsor page](/club/#scriabin-club-sponsor) for more information.
 
 ![Scriabin Club is dedicated to the innovative composer Alexander Scriabin. His active and bright spirit symbolises our mission, tasks and goals.](scriabin.jpg)
