@@ -17,6 +17,10 @@ cat:
 
 This is a first step to revolutionize perception of music, with wide-ranging effects for piano performance practice, music education and audience perception.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfBFm_D1EzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+See [the video presentation of my research here](https://www.youtube.com/watch?v=DfBFm_D1EzM).
+
 ### Thesis abstract
 
 Alexander Scriabin is a composer known to have had synaesthesia, however only one work exists with a documented color accompaniment, namely his 5th Symphony Op.60 *Prometheus: The poem of fire*.
