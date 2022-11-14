@@ -22,7 +22,7 @@ Contact us via the following address:
 <script src="/js/cd.js"></script>
 
 If the adress doesn't appear, [see here](cd.jpg).
-Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://martinkaptein.com/contact/).
+Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://kaptein.me/contact/).
 
 ### Social Media
 
