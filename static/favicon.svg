@@ -2,25 +2,28 @@
 <!--
 box: 240
 
-stroke-width: box/10
-add afterwards 2*stroke-width to total width and height, including translation
+stroke-width: box/5
 -->
 
     <desc>Scriabin Club Logo, designed by Martin Kaptein in vim.</desc>
-<!-- Remove for transparency -->
-	<!--
-        <rect id="main" fill="#345694" x="0" y="0" width="280" height="280"></rect>
-	-->
-
 
 <g transform="translate(144,144)">
 
-<!-- remove for transparency -->
-<circle fill="#345694" x="0" cy="0" r="144" />
-<!-- y axis inverted -->
-<path d="M60 -60 A 60 60, 0, 1, 0, 0 0 " stroke-width="24" stroke="#ffffff"/>
-<path d="M 0 0 A 60 60, 0, 0, 1, 0 120" stroke-width="24" stroke="#ffffff"/>
-<path d="M0 120 A 120 120, 0, 1, 1, 0 -120" stroke-width="24" stroke="#ffffff"/>
+<mask id="mask">
+
+<circle fill="white" x="0" cy="0" r="120"/>
+<path d="M 0 0 A 60 60, 0, 0, 0, 0 -120 A 60 60 0, 0, 0, 0 0 A 60 60, 0, 0, 1, 0 120 A 120 120, 0, 1, 1, 0 -120" stroke-width="48" stroke="black" />
+</mask>
+
+<!-- outside circle radius box/5 larger (so (240 + 48) / 2) than box, that's why add 48 to total svg width and height, mind transformation too -->
+<circle fill="#345694" x="0" cy="0" r="144"/>
+
+<g mask="url(#mask)">
+<path d="M 0 -120 A 120 120 0 1 0 0 120" fill="#ffffff"/>
+<circle fill="#ffffff" cx="0" cy="60" r="60"/>
+<circle fill="#ffffff" cx="0" cy="-60" r="60"/>
+</g>
+
 
 </g>
 
