@@ -15,7 +15,7 @@ cat:
   - bolzano
 ---
 
-## Scriabin Club in Bolzano - an initiave of Musica in aulis, dedicated to Michelangeli
+## Scriabin Club in Bolzano - an initiative of Musica in aulis, dedicated to Michelangeli
 
 On the 8th of December 2022 the debut of Scriabin Club found place in the *Palazzo Mercantile* of the beautiful city of Bolzano, South Tyrol, Italy.
 This event took place in collaboration with [Musica in aulis](https://www.facebook.com/musicainaulis) as well as the director of the Conservatory of Bolzano, **Giacomo Fornari**, and was dedicated to the famous Italian pianist and musician **Arturo Benedetti Michelangeli**.
