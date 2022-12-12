@@ -33,7 +33,7 @@ sitename = "Scriabin Club"
 footerHTML = '&copy; ScriabinClub | <a href="/contact/">Contact</a>'
 strNextPage = "Older →"
 strPreviousPage = "← Newer"
-
+strLinkDescriptor = "Link to the homepage of Scriabin Club."
 
 [languages]
 
@@ -61,6 +61,7 @@ sitename = "Skrjabin Klub"
 footerHTML = '&copy; Skrjabin Klub | <a href="/contact/">Kontakt</a>'
 strNextPage = "Älter →"
 strPreviousPage = "← Neuer"
+strLinkDescriptor = "Link zur Homepage des Skrjabin Klubs."
 
 ###################
 ### NEDERLANDS ####
@@ -73,6 +74,7 @@ sitename = "Scriabin Club"
 footerHTML = '&copy; Scriabin Club | <a href="/contact/">Contact</a>'
 strNextPage = "Terug →"
 strPreviousPage = "← Vooruit"
+strLinkDescriptor = "Link naar de Hoofdpagina van de Scriabin Club."
 
 ###################
 ### RUSSIAN ####
@@ -87,3 +89,4 @@ sitename = "Скрябинский Клуб"
 footerHTML = '&copy; Скрябинский Клуб | <a href="/contact/">Контакт</a>'
 strNextPage = "Старее →"
 strPreviousPage = "← Новее"
+strLinkDescriptor = "Ссылка на домашнюю страницу Скрябинского Клуба."
