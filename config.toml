@@ -9,9 +9,6 @@ paginate = 30
 [taxonomies]
   cat = 'cat'
 
-#[permalinks]
-#page = "/:slug/"
-
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
 unsafe = true
@@ -21,16 +18,22 @@ unsafe = true
 ## GLOBAL VARS (default) ##
 ###########################
 
-# RobotsDisallow = ["/dev/"]
+###########################
+###### LOOK AND FEEL ######
+###########################
+
 featuredImage = "/images/banner.jpg"
+# if no bg image set, or cannot be loaded, will fallback on bgColor
+bgImage = "/images/bg.svg"
+bgColor = "#15223B"
+logo = "/logo.svg"
 
 
 #######################
-### LOCALIZATION ######
+### LOCALIZATION (DEFAULT) ######
 #######################
 
 sitename = "Scriabin Club"
-footerHTML = '&copy; ScriabinClub | <a href="/contact/">Contact</a>'
 strNextPage = "Older →"
 strPreviousPage = "← Newer"
 strLinkDescriptor = "Link to the homepage of Scriabin Club."
@@ -58,7 +61,6 @@ weight = 2
 [languages.de.params]
 ## possible param overwrites (for localization) go here
 sitename = "Skrjabin Klub"
-footerHTML = '&copy; Skrjabin Klub | <a href="/contact/">Kontakt</a>'
 strNextPage = "Älter →"
 strPreviousPage = "← Neuer"
 strLinkDescriptor = "Link zur Homepage des Skrjabin Klubs."
@@ -71,7 +73,6 @@ languageName = "Nederlands"
 
 [languages.nl.params]
 sitename = "Scriabin Club"
-footerHTML = '&copy; Scriabin Club | <a href="/contact/">Contact</a>'
 strNextPage = "Terug →"
 strPreviousPage = "← Vooruit"
 strLinkDescriptor = "Link naar de Hoofdpagina van de Scriabin Club."
@@ -86,7 +87,6 @@ languageName = "Русский"
 [languages.ru.params]
 
 sitename = "Скрябинский Клуб"
-footerHTML = '&copy; Скрябинский Клуб | <a href="/contact/">Контакт</a>'
 strNextPage = "Старее →"
 strPreviousPage = "← Новее"
 strLinkDescriptor = "Ссылка на домашнюю страницу Скрябинского Клуба."

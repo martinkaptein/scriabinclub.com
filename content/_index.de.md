@@ -1,5 +1,7 @@
 ---
-title: "Willkommen auf der Website des Skrjabin Clubs"
+title: "Homepage"
+menu: footer
+weight: 4
 draft: false
 description: "Herzlich Willkommen zum Skrjabin Klub beziehungsweise Skrjabin Verein. Unser Ziel ist die Förderung des kulturellen Bewusstseins. Dies beinhaltet die aktive Förderung der Musik Alexander Skrjabins, Bildung und eine interessierte und engagierte Gemeinschaft."
 featuredImage: "/images/banner.jpg" 
@@ -16,14 +18,15 @@ keywords:
   - Homepage
 ---
 
+## Willkommen auf der Website des Skrjabin Clubs
 
-## Unsere Aufgaben
+### Unsere Aufgaben
 
 - Eine Gemeinschaft zu schaffen, in der Gespräche über Kunst und Leben stattfinden und Gleichgesinnte zusammengebracht werden.
 - Eine Musikschule und Lernumgebung von höchster Qualität für Klavierunterricht und allgemeine kulturelle Bildung zu schaffen.
 - Einen Ort zu schaffen, an dem [Informationen über Skrjabin und verwandte Themen](/de/post/) ausgetauscht und verbreitet werden.
 
-## Unser Klub
+### Unser Klub
 
 ![Skrjabin-Klub](club.jpg)
 
@@ -33,7 +36,7 @@ Die Mitgliedschaft im Skrjabin-Club bietet Vorteile wie die Teilnahme an Konfere
 Die Zahl unserer Anhänger und Mitglieder wächst ständig. 
 Erfahren Sie mehr [über den Skrjabin-Club](/de/club/).
 
-## Unsere Sponsoren
+### Unsere Sponsoren
 
 Möchten Sie die Mission des Skrjabin-Clubs finanziell unterstützen und unser Sponsor werden? 
 Bitte [kontaktieren Sie uns](/contact/).

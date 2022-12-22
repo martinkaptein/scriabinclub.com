@@ -1,5 +1,7 @@
 ---
-title: "Welkom bij de Scriabin Club"
+title: "Homepagina"
+menu: footer
+weight: 4
 draft: false
 description: "Welkom bij de Scriabin Club. Scriabin Club draagt de taak om cultureel bewustzijn te promoveren. Dit beinhoud promotie van muziek, opleiding en educatie, informatie over Alexander Scriabin, en het zijn van een betrokken gemeenschap."
 metaImage: "/images/banner.jpg" 
@@ -16,14 +18,16 @@ keywords:
   - nederlands
 ---
 
+## Welkom op de website van de Scriabin Club
 
-## Onze Missie
+### Onze Missie
 
 - Het creëren van een gemeenschap, waar gesprekken over Kunst en Leven plaatsvinden en gelijkgezinden bij elkaar worden gebracht.
 - Het creëren van een muziekschool en leeromgeving van de hoogste kwaliteit voor pianolessen en algemeen cultureel onderwijs.
 - Een plek creëren waar [informatie](/nl/post/) over Scriabin en andere gerelateerde onderwerpen gedeeld en verspreid wordt.
 
-## Onze Club
+### Onze Club
+
 ![Scriabin Club](club.jpg)
 
 Leden van de Scriabin Club werken actief aan het bevorderen van cultureel bewustzijn, betrokkenheid en verlichting.
@@ -32,7 +36,7 @@ Lidmaatschap van de Scriabin Club houdt voordelen in zoals deelname aan conferen
 Ons bestand van volgers en leden groeit voortdurend. 
 Meer informatie [over de Scriabin Club](/nl/club/).
 
-## Onze Sponsoren
+### Onze Sponsoren
 
 Wilt u de missie van Scriabin Club financieel ondersteunen en onze sponsor worden? 
 Neem dan [contact met ons op](/contact/).

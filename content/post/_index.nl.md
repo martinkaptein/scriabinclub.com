@@ -8,7 +8,6 @@ featuredImage: "/images/banner.jpg"
 imageCaption: "Scriabin Club banner foto."
 menu:
   - main
-  - footer
 weight: 2
 keywords:
   - berichten

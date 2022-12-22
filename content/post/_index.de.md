@@ -8,7 +8,6 @@ metaImage: "/images/banner.jpg"
 imageCaption: "Banner Foto des Skrjabin Klubs"
 menu:
   - main
-  - footer
 weight: 4
 keywords:
   - blog

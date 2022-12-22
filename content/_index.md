@@ -1,5 +1,7 @@
 ---
-title: "Welcome to Scriabin Club"
+title: "Home"
+menu: footer
+weight: 4
 draft: false
 description: "Welcome to Scriabin club. We have the mission to promote cultural enlightenment. Our tasks include promoting music, education, information about Alexander Scriabin and being a strong community."
 metaImage: "/images/banner.jpg" 
@@ -14,13 +16,15 @@ keywords:
   - homepage
 ---
 
-## Our Mission
+## Welcome on the website of Scriabin Club
+
+### Our Mission
 
 - To create a community, where conversations about Art and Life are taking place and bringing like-minded people together.
 - To create a highest quality music school and learning environment for piano lessons and general cultural education.
 - To create a place where [information about Scriabin](/post/) and related topics is shared and distributed.
 
-## Our Club
+### Our Club
 
 ![Scriabin Club](club.jpg)
 
@@ -30,7 +34,7 @@ Scriabin Club membership includes benefits such as the participation in conferen
 Our base of followers and members is constantly growing.
 See [how to become a part of Scriabin Club](/club/) or learn more [about Scriabin Club](/about/).
 
-## Our Sponsors
+### Our Sponsors
 
 Do you want to support the mission of Scriabin Club financially and become our sponsor?
 Please [see the sponsor page](/club/#scriabin-club-sponsor) for more information.

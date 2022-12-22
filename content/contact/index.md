@@ -2,10 +2,10 @@
 title: "Contact"
 draft: false
 description: "Contact Scriabin Club via all means possible, including email, various social media such as Facebook, Twitter, Instagram and Reddit. Also, possibilities to donate are available too."
-slug: contact
 metaImage: "/images/banner.jpg" 
 imageCaption: "Banner image"
 weight: 5
+menu: footer
 keywords:
   - Scriabin Club
   - Contact
