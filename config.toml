@@ -34,8 +34,8 @@ logo = "/logo.svg"
 #######################
 
 sitename = "Scriabin Club"
-strNextPage = "Older →"
-strPreviousPage = "← Newer"
+strNextPage = "Next page→"
+strPreviousPage = "← Previous page"
 strLinkDescriptor = "Link to the homepage of Scriabin Club."
 
 [languages]
@@ -61,8 +61,8 @@ weight = 2
 [languages.de.params]
 ## possible param overwrites (for localization) go here
 sitename = "Skrjabin Klub"
-strNextPage = "Älter →"
-strPreviousPage = "← Neuer"
+strNextPage = "Nächste Seite→"
+strPreviousPage = "← Vorige Seite"
 strLinkDescriptor = "Link zur Homepage des Skrjabin Klubs."
 
 ###################
@@ -87,6 +87,6 @@ languageName = "Русский"
 [languages.ru.params]
 
 sitename = "Скрябинский Клуб"
-strNextPage = "Старее →"
-strPreviousPage = "← Новее"
+strNextPage = "Следующая страница →"
+strPreviousPage = "← Предыдущая страница"
 strLinkDescriptor = "Ссылка на домашнюю страницу Скрябинского Клуба."
