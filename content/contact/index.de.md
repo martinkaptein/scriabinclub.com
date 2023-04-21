@@ -19,10 +19,9 @@ keywords:
 
 Sie können über folgende Mail Adresse Kontakt aufnehmen:
 
-<script src="/js/cd.js"></script>
+[mail@sonata8.com](mailto:mail@sonata8.com)
 
-Falls Sie die Adresse nicht sehen, [klicken Sie hier](cd.jpg).
-Auch können Sie direkt mit dem Gründer von dem Skrjabin Klub [auf seiner Webseite Kontakt aufnehmen](https://kaptein.me/de/contact/).
+Auch können Sie direkt mit dem Gründer von dem Skrjabin Klub [auf seiner Webseite Kontakt aufnehmen](https://martinkaptein.com/de/contact/).
 
 ### Soziale Medien
 
