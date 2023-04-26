@@ -19,10 +19,9 @@ keywords:
 
 U kan via volgend mail adres contact opnemen:
 
-<script src="/js/cd.js"></script>
+[mail@sonata8.com](mailto:mail@sonata8.com)
 
-Als het adres niet verschijnt, [ziet U het hier](cd.jpg).
-U kan ook rechtstreeks met de oprichter van de Scriabin Club, Martin Kaptein, [op zijn website contact opnemen](https://kaptein.me/nl/contact/)
+U kan ook rechtstreeks met de oprichter van de Scriabin Club, Martin Kaptein, [op zijn website contact opnemen](https://martinkaptein.com/nl/contact/)
 
 ### Sociale Media
 

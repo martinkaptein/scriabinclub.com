@@ -19,10 +19,9 @@ keywords:
 
 Contact us via the following address:
 
-<script src="/js/cd.js"></script>
+[mail@sonata8.com](mailto:mail@sonata8.com)
 
-If the adress doesn't appear, [see here](cd.jpg).
-Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://kaptein.me/contact/).
+Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://martinkaptein.com/contact/).
 
 ### Social Media
 
