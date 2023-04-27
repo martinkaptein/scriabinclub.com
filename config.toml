@@ -25,7 +25,7 @@ unsafe = true
 featuredImage = "/images/banner.jpg"
 # if no bg image set, or cannot be loaded, will fallback on bgColor
 bgImage = "/images/bg.svg"
-bgColor = "#15223B"
+bgColor = "#202430" #original bg color, average of bg.jpg: #6e78a2
 logo = "/logo.svg"
 
 
