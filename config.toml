@@ -22,10 +22,10 @@ unsafe = true
 ###### LOOK AND FEEL ######
 ###########################
 
-featuredImage = "/images/banner.jpg"
+featuredImage = "/images/bg-min.png"
 # if no bg image set, or cannot be loaded, will fallback on bgColor
 bgImage = "/images/bg.svg"
-bgColor = "#202430" #original bg color, average of bg.jpg: #6e78a2
+bgColor = "#0c1c33" #original bg color, average of bg.jpg: #225da9
 logo = "/logo.svg"
 
 
