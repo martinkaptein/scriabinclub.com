@@ -18,3 +18,5 @@ keywords:
   - internationaal
   - blog
 ---
+
+Zie <a href="/post/" hreflang="en">deze pagina voor publicaties</a> in de Engelse taal.

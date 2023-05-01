@@ -17,3 +17,6 @@ keywords:
   - international
   - blog
 ---
+
+Besuchen Sie <a href="/post/" hreflang="en">diese Artikelseite in englischer Sprache</a>, da noch nicht alles übersetzt ist.
+Wenn Sie uns damit unterstützen wollen, [kontaktieren Sie uns](/de/contact/).
