@@ -25,7 +25,7 @@ U kan ook rechtstreeks met de oprichter van de Scriabin Club, Martin Kaptein, [o
 
 [martinkaptein.com](https://martinkaptein.com/)
 
-[mmc@sonata8.com](mailto:mmc@sonata8.com)
+[mk@sonata8.com](mailto:mk@sonata8.com)
 
 ### Sociale Media
 

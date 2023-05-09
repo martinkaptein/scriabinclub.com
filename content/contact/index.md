@@ -25,7 +25,7 @@ Alternatively, you can contact the founder of Scriabin Club directly [on his web
 
 [martinkaptein.com](https://martinkaptein.com/)
 
-[mmc@sonata8.com](mailto:mmc@sonata8.com)
+[mk@sonata8.com](mailto:mk@sonata8.com)
 
 ### Social Media
 

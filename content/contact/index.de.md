@@ -25,7 +25,7 @@ Auch können Sie direkt mit dem Gründer von dem Skrjabin Klub [auf seiner Webse
 
 [martinkaptein.com](https://martinkaptein.com/)
 
-[mmc@sonata8.com](mailto:mmc@sonata8.com)
+[mk@sonata8.com](mailto:mk@sonata8.com)
 
 ### Soziale Medien
 
