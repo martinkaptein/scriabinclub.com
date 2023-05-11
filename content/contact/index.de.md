@@ -21,7 +21,7 @@ Sie können über folgende Mail Adresse Kontakt aufnehmen:
 
 [inbox@scriabinclub.com](mailto:inbox@scriabinclub.com)
 
-Auch können Sie direkt mit dem Gründer von dem Skrjabin Klub [auf seiner Webseite Kontakt aufnehmen](https://martinkaptein.com/):
+Auch können Sie direkt mit dem Gründer von dem Skrjabin Klub [auf seiner Webseite Kontakt aufnehmen](https://kaptein.me/):
 
 [martinkaptein.com](https://martinkaptein.com/)
 

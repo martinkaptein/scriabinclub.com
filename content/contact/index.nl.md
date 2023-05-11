@@ -21,7 +21,7 @@ U kan via volgend mail adres contact opnemen:
 
 [inbox@scriabinclub.com](mailto:inbox@scriabinclub.com)
 
-U kan ook rechtstreeks met de oprichter van de Scriabin Club, Martin Kaptein, [op zijn website contact opnemen](https://martinkaptein.com/nl/contact/)
+U kan ook rechtstreeks met de oprichter van de Scriabin Club, Martin Kaptein, [op zijn website contact opnemen](https://kaptein.me/nl/contact/)
 
 [martinkaptein.com](https://martinkaptein.com/)
 

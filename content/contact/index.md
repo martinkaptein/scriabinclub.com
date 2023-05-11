@@ -21,9 +21,7 @@ Contact us via the following address:
 
 [inbox@scriabinclub.com](mailto:inbox@scriabinclub.com)
 
-Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://martinkaptein.com/contact/):
-
-[martinkaptein.com](https://martinkaptein.com/)
+Alternatively, you can contact the founder of Scriabin Club directly [on his website](https://kaptein.me/contact/):
 
 [mk@sonata8.com](mailto:mk@sonata8.com)
 
