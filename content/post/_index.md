@@ -18,3 +18,5 @@ keywords:
   - international
   - blog
 ---
+
+For more announcements, publications and news <a href="https://kaptein.me/news/" hreflang="en">see this page</a>.

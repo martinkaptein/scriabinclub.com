@@ -20,3 +20,5 @@ keywords:
 ---
 
 Zie <a href="/post/" hreflang="en">deze pagina voor publicaties</a> in de Engelse taal.
+
+Voor meer aankondigingen, publicaties en nieuws <a href="https://kaptein.me/news/" hreflang="en">zie deze pagina</a>.

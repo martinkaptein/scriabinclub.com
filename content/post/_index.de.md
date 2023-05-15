@@ -20,3 +20,5 @@ keywords:
 
 Besuchen Sie <a href="/post/" hreflang="en">diese Artikelseite in englischer Sprache</a>, da noch nicht alles übersetzt ist.
 Wenn Sie uns damit unterstützen wollen, [kontaktieren Sie uns](/de/contact/).
+
+Weitere Ankündigungen, Veröffentlichungen und Nachrichten finden Sie <a href="https://kaptein.me/news/" hreflang="de">auf dieser Seite</a>.
